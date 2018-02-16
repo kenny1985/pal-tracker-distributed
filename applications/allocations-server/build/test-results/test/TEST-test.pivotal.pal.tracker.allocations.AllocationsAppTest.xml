@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.pivotal.pal.tracker.allocations.AllocationsAppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-02-16T06:53:19" hostname="MACLT026749.local" time="6.184">
+  <properties/>
+  <testcase name="embedded" classname="test.pivotal.pal.tracker.allocations.AllocationsAppTest" time="6.184"/>
+  <system-out><![CDATA[
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v1.5.3.RELEASE)
+
+2018-02-16 06:53:20.246  INFO 15181 --- [    Test worker] io.pivotal.pal.tracker.allocations.App   : Starting App on MACLT026749.local with PID 15181 (started by kannan in /Users/kannan/Downloads/workspace/pal-track-dist-git/applications/allocations-server)
+2018-02-16 06:53:20.250  INFO 15181 --- [    Test worker] io.pivotal.pal.tracker.allocations.App   : No active profile set, falling back to default profiles: default
+2018-02-16 06:53:20.335  INFO 15181 --- [    Test worker] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@66cb5427: startup date [Fri Feb 16 06:53:20 UTC 2018]; root of context hierarchy
+2018-02-16 06:53:22.588  INFO 15181 --- [    Test worker] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8181 (http)
+2018-02-16 06:53:22.609  INFO 15181 --- [    Test worker] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2018-02-16 06:53:22.611  INFO 15181 --- [    Test worker] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.14
+2018-02-16 06:53:22.807  INFO 15181 --- [ost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-02-16 06:53:22.808  INFO 15181 --- [ost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2478 ms
+2018-02-16 06:53:23.033  INFO 15181 --- [ost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Mapping servlet: 'dispatcherServlet' to [/]
+2018-02-16 06:53:23.040  INFO 15181 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-02-16 06:53:23.041  INFO 15181 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-02-16 06:53:23.041  INFO 15181 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2018-02-16 06:53:23.042  INFO 15181 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2018-02-16 06:53:24.248  INFO 15181 --- [    Test worker] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@66cb5427: startup date [Fri Feb 16 06:53:20 UTC 2018]; root of context hierarchy
+2018-02-16 06:53:24.375  INFO 15181 --- [    Test worker] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/allocations],methods=[POST]}" onto public org.springframework.http.ResponseEntity<io.pivotal.pal.tracker.allocations.AllocationInfo> io.pivotal.pal.tracker.allocations.AllocationController.create(io.pivotal.pal.tracker.allocations.AllocationForm)
+2018-02-16 06:53:24.377  INFO 15181 --- [    Test worker] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/allocations],methods=[GET]}" onto public java.util.List<io.pivotal.pal.tracker.allocations.AllocationInfo> io.pivotal.pal.tracker.allocations.AllocationController.list(long)
+2018-02-16 06:53:24.378  INFO 15181 --- [    Test worker] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/],methods=[GET]}" onto public java.lang.String io.pivotal.pal.tracker.restsupport.SpringDefaultController.defaultRoute()
+2018-02-16 06:53:24.384  INFO 15181 --- [    Test worker] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2018-02-16 06:53:24.385  INFO 15181 --- [    Test worker] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-02-16 06:53:24.441  INFO 15181 --- [    Test worker] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-02-16 06:53:24.441  INFO 15181 --- [    Test worker] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-02-16 06:53:24.515  INFO 15181 --- [    Test worker] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-02-16 06:53:24.912  INFO 15181 --- [    Test worker] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2018-02-16 06:53:24.981  INFO 15181 --- [    Test worker] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8181 (http)
+2018-02-16 06:53:24.989  INFO 15181 --- [    Test worker] io.pivotal.pal.tracker.allocations.App   : Started App in 5.191 seconds (JVM running for 6.215)
+2018-02-16 06:53:25.239  INFO 15181 --- [nio-8181-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-02-16 06:53:25.239  INFO 15181 --- [nio-8181-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+2018-02-16 06:53:25.272  INFO 15181 --- [nio-8181-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 32 ms
+2018-02-16 06:53:25.322  INFO 15181 --- [nio-8181-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariCP pool HikariPool-0 is starting.
+2018-02-16 06:53:25.334  WARN 15181 --- [nio-8181-exec-1] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+]]></system-out>
+  <system-err><![CDATA[Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+]]></system-err>
+</testsuite>

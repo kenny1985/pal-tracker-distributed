@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.pivotal.pal.tracker.backlog.data.StoryDataGatewayTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-02-16T06:53:59" hostname="MACLT026749.local" time="0.405">
+  <properties/>
+  <testcase name="testCreate" classname="test.pivotal.pal.tracker.backlog.data.StoryDataGatewayTest" time="0.368"/>
+  <testcase name="testFindBy" classname="test.pivotal.pal.tracker.backlog.data.StoryDataGatewayTest" time="0.037"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

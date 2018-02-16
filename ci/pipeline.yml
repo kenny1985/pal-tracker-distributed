@@ -4,12 +4,12 @@ resources:
   type: git
   source:
     uri: {{github-repository}}
-    branch: my-work
-    private_key: {{github-private-key}}
+    branch: master
 
 - name: version
   type: semver
   source:
+    region_name: {{aws-region}}
     bucket: {{aws-bucket}}
     key: pal-tracker/current-version
     access_key_id: {{aws-access-key-id}}
@@ -18,6 +18,7 @@ resources:
 - name: allocations-artifacts
   type: s3
   source:
+    region_name: {{aws-region}}
     bucket: {{aws-bucket}}
     regexp: pal-tracker/allocations-server-(.*).jar
     access_key_id: {{aws-access-key-id}}
@@ -26,6 +27,7 @@ resources:
 - name: backlog-artifacts
   type: s3
   source:
+    region_name: {{aws-region}}
     bucket: {{aws-bucket}}
     regexp: pal-tracker/backlog-server-(.*).jar
     access_key_id: {{aws-access-key-id}}
@@ -34,6 +36,7 @@ resources:
 - name: registration-artifacts
   type: s3
   source:
+    region_name: {{aws-region}}
     bucket: {{aws-bucket}}
     regexp: pal-tracker/registration-server-(.*).jar
     access_key_id: {{aws-access-key-id}}
@@ -42,6 +45,7 @@ resources:
 - name: timesheets-artifacts
   type: s3
   source:
+    region_name: {{aws-region}}
     bucket: {{aws-bucket}}
     regexp: pal-tracker/timesheets-server-(.*).jar
     access_key_id: {{aws-access-key-id}}
@@ -54,7 +58,7 @@ resources:
     username: {{cf-username}}
     password: {{cf-password}}
     organization: {{cf-org}}
-    space: sandbox
+    space: {{cf-space}}
     skip_cert_check: true
 
 

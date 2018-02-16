@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="allocations-database_main" target="1.8" />
+      <module name="allocations-database_test" target="1.8" />
+      <module name="backlog-database_main" target="1.8" />
+      <module name="backlog-database_test" target="1.8" />
+      <module name="buildSrc_main" target="1.8" />
+      <module name="buildSrc_test" target="1.8" />
+      <module name="databases_main" target="1.8" />
+      <module name="databases_test" target="1.8" />
+      <module name="registration-database_main" target="1.8" />
+      <module name="registration-database_test" target="1.8" />
+      <module name="rest-support_main" target="1.8" />
+      <module name="rest-support_test" target="1.8" />
+      <module name="timesheets-database_main" target="1.8" />
+      <module name="timesheets-database_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/accounts/accounts.iml" filepath="$PROJECT_DIR$/.idea/modules/components/accounts/accounts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/allocations/allocations.iml" filepath="$PROJECT_DIR$/.idea/modules/components/allocations/allocations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/databases/allocations-database/allocations-database.iml" filepath="$PROJECT_DIR$/.idea/modules/databases/allocations-database/allocations-database.iml" group="databases/allocations-database" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/databases/allocations-database/allocations-database_main.iml" filepath="$PROJECT_DIR$/.idea/modules/databases/allocations-database/allocations-database_main.iml" group="databases/allocations-database" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/databases/allocations-database/allocations-database_test.iml" filepath="$PROJECT_DIR$/.idea/modules/databases/allocations-database/allocations-database_test.iml" group="databases/allocations-database" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/allocations-server/allocations-server.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/allocations-server/allocations-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/applications.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/applications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/backlog/backlog.iml" filepath="$PROJECT_DIR$/.idea/modules/components/backlog/backlog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/databases/backlog-database/backlog-database.iml" filepath="$PROJECT_DIR$/.idea/modules/databases/backlog-database/backlog-database.iml" group="databases/backlog-database" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/databases/backlog-database/backlog-database_main.iml" filepath="$PROJECT_DIR$/.idea/modules/databases/backlog-database/backlog-database_main.iml" group="databases/backlog-database" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/databases/backlog-database/backlog-database_test.iml" filepath="$PROJECT_DIR$/.idea/modules/databases/backlog-database/backlog-database_test.iml" group="databases/backlog-database" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/backlog-server/backlog-server.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/backlog-server/backlog-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc_main.iml" group="buildSrc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc_test.iml" group="buildSrc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/components.iml" filepath="$PROJECT_DIR$/.idea/modules/components/components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/databases/databases.iml" filepath="$PROJECT_DIR$/.idea/modules/databases/databases.iml" group="databases" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/databases/databases_main.iml" filepath="$PROJECT_DIR$/.idea/modules/databases/databases_main.iml" group="databases" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/databases/databases_test.iml" filepath="$PROJECT_DIR$/.idea/modules/databases/databases_test.iml" group="databases" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/integration-test/integration-test.iml" filepath="$PROJECT_DIR$/.idea/modules/integration-test/integration-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pal-track-dist-git.iml" filepath="$PROJECT_DIR$/.idea/modules/pal-track-dist-git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pal-tracker-distributed.iml" filepath="$PROJECT_DIR$/.idea/modules/pal-tracker-distributed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/projects/projects.iml" filepath="$PROJECT_DIR$/.idea/modules/components/projects/projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/databases/registration-database/registration-database.iml" filepath="$PROJECT_DIR$/.idea/modules/databases/registration-database/registration-database.iml" group="databases/registration-database" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/databases/registration-database/registration-database_main.iml" filepath="$PROJECT_DIR$/.idea/modules/databases/registration-database/registration-database_main.iml" group="databases/registration-database" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/databases/registration-database/registration-database_test.iml" filepath="$PROJECT_DIR$/.idea/modules/databases/registration-database/registration-database_test.iml" group="databases/registration-database" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/registration-server/registration-server.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/registration-server/registration-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/rest-support/rest-support.iml" filepath="$PROJECT_DIR$/.idea/modules/components/rest-support/rest-support.iml" group="components/rest-support" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/rest-support/rest-support_main.iml" filepath="$PROJECT_DIR$/.idea/modules/components/rest-support/rest-support_main.iml" group="components/rest-support" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/rest-support/rest-support_test.iml" filepath="$PROJECT_DIR$/.idea/modules/components/rest-support/rest-support_test.iml" group="components/rest-support" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/test-support/test-support.iml" filepath="$PROJECT_DIR$/.idea/modules/components/test-support/test-support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/timesheets/timesheets.iml" filepath="$PROJECT_DIR$/.idea/modules/components/timesheets/timesheets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/databases/timesheets-database/timesheets-database.iml" filepath="$PROJECT_DIR$/.idea/modules/databases/timesheets-database/timesheets-database.iml" group="databases/timesheets-database" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/databases/timesheets-database/timesheets-database_main.iml" filepath="$PROJECT_DIR$/.idea/modules/databases/timesheets-database/timesheets-database_main.iml" group="databases/timesheets-database" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/databases/timesheets-database/timesheets-database_test.iml" filepath="$PROJECT_DIR$/.idea/modules/databases/timesheets-database/timesheets-database_test.iml" group="databases/timesheets-database" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/timesheets-server/timesheets-server.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/timesheets-server/timesheets-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/users/users.iml" filepath="$PROJECT_DIR$/.idea/modules/components/users/users.iml" />
+    </modules>
+  </component>
+</project>
