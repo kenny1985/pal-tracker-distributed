@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="test.pivotal.pal.tracker.backlog.data.StoryDataGatewayTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-02-26T05:50:08" hostname="MACLT026749.local" time="0.453">
+<testsuite name="test.pivotal.pal.tracker.backlog.data.StoryDataGatewayTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-02-26T13:11:27" hostname="MACLT026749.local" time="0.4">
   <properties/>
-  <testcase name="testCreate" classname="test.pivotal.pal.tracker.backlog.data.StoryDataGatewayTest" time="0.416"/>
-  <testcase name="testFindBy" classname="test.pivotal.pal.tracker.backlog.data.StoryDataGatewayTest" time="0.036"/>
+  <testcase name="testCreate" classname="test.pivotal.pal.tracker.backlog.data.StoryDataGatewayTest" time="0.358"/>
+  <testcase name="testFindBy" classname="test.pivotal.pal.tracker.backlog.data.StoryDataGatewayTest" time="0.041"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
