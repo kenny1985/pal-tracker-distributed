@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="test.pivotal.pal.tracker.allocations.AllocationDataGatewayTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-02-16T06:53:57" hostname="MACLT026749.local" time="0.318">
+<testsuite name="test.pivotal.pal.tracker.allocations.AllocationDataGatewayTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-02-26T05:50:06" hostname="MACLT026749.local" time="0.46">
   <properties/>
-  <testcase name="testCreate" classname="test.pivotal.pal.tracker.allocations.AllocationDataGatewayTest" time="0.29"/>
-  <testcase name="testFindAllByProjectId" classname="test.pivotal.pal.tracker.allocations.AllocationDataGatewayTest" time="0.027"/>
+  <testcase name="testCreate" classname="test.pivotal.pal.tracker.allocations.AllocationDataGatewayTest" time="0.432"/>
+  <testcase name="testFindAllByProjectId" classname="test.pivotal.pal.tracker.allocations.AllocationDataGatewayTest" time="0.028"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

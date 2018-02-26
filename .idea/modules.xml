@@ -21,9 +21,15 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/databases/databases.iml" filepath="$PROJECT_DIR$/.idea/modules/databases/databases.iml" group="databases" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/databases/databases_main.iml" filepath="$PROJECT_DIR$/.idea/modules/databases/databases_main.iml" group="databases" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/databases/databases_test.iml" filepath="$PROJECT_DIR$/.idea/modules/databases/databases_test.iml" group="databases" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server.iml" group="platform-services/eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server_main.iml" group="platform-services/eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server_test.iml" group="platform-services/eureka-server" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/integration-test/integration-test.iml" filepath="$PROJECT_DIR$/.idea/modules/integration-test/integration-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pal-track-dist-git.iml" filepath="$PROJECT_DIR$/.idea/modules/pal-track-dist-git.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pal-tracker-distributed.iml" filepath="$PROJECT_DIR$/.idea/modules/pal-tracker-distributed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform-services/platform-services.iml" filepath="$PROJECT_DIR$/.idea/modules/platform-services/platform-services.iml" group="platform-services" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform-services/platform-services_main.iml" filepath="$PROJECT_DIR$/.idea/modules/platform-services/platform-services_main.iml" group="platform-services" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform-services/platform-services_test.iml" filepath="$PROJECT_DIR$/.idea/modules/platform-services/platform-services_test.iml" group="platform-services" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/projects/projects.iml" filepath="$PROJECT_DIR$/.idea/modules/components/projects/projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/databases/registration-database/registration-database.iml" filepath="$PROJECT_DIR$/.idea/modules/databases/registration-database/registration-database.iml" group="databases/registration-database" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/databases/registration-database/registration-database_main.iml" filepath="$PROJECT_DIR$/.idea/modules/databases/registration-database/registration-database_main.iml" group="databases/registration-database" />
