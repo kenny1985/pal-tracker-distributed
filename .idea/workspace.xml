@@ -2,50 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d9ecec4-7b31-454a-8900-e11cb7af225c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buildSrc/.gradle/4.0/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/buildSrc/.gradle/4.0/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/applications/allocations-server/allocations-server.iml" afterPath="$PROJECT_DIR$/.idea/modules/applications/allocations-server/allocations-server.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/applications/applications.iml" afterPath="$PROJECT_DIR$/.idea/modules/applications/applications.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/applications/backlog-server/backlog-server.iml" afterPath="$PROJECT_DIR$/.idea/modules/applications/backlog-server/backlog-server.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/applications/registration-server/registration-server.iml" afterPath="$PROJECT_DIR$/.idea/modules/applications/registration-server/registration-server.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/applications/timesheets-server/timesheets-server.iml" afterPath="$PROJECT_DIR$/.idea/modules/applications/timesheets-server/timesheets-server.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/buildSrc_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/buildSrc_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/components/accounts/accounts.iml" afterPath="$PROJECT_DIR$/.idea/modules/components/accounts/accounts.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/components/allocations/allocations.iml" afterPath="$PROJECT_DIR$/.idea/modules/components/allocations/allocations.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/components/backlog/backlog.iml" afterPath="$PROJECT_DIR$/.idea/modules/components/backlog/backlog.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/components/components.iml" afterPath="$PROJECT_DIR$/.idea/modules/components/components.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/components/projects/projects.iml" afterPath="$PROJECT_DIR$/.idea/modules/components/projects/projects.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/components/rest-support/rest-support_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/components/rest-support/rest-support_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/components/test-support/test-support.iml" afterPath="$PROJECT_DIR$/.idea/modules/components/test-support/test-support.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/components/timesheets/timesheets.iml" afterPath="$PROJECT_DIR$/.idea/modules/components/timesheets/timesheets.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/components/users/users.iml" afterPath="$PROJECT_DIR$/.idea/modules/components/users/users.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/databases/allocations-database/allocations-database_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/databases/allocations-database/allocations-database_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/databases/backlog-database/backlog-database_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/databases/backlog-database/backlog-database_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/databases/databases_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/databases/databases_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/databases/registration-database/registration-database_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/databases/registration-database/registration-database_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/databases/timesheets-database/timesheets-database_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/databases/timesheets-database/timesheets-database_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/integration-test/integration-test.iml" afterPath="$PROJECT_DIR$/.idea/modules/integration-test/integration-test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/platform-services/platform-services_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/platform-services/platform-services_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/allocations-server/src/main/java/io/pivotal/pal/tracker/allocations/App.java" afterPath="$PROJECT_DIR$/applications/allocations-server/src/main/java/io/pivotal/pal/tracker/allocations/App.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/allocations-server/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/applications/allocations-server/src/main/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/allocations-server/src/test/resources/application.properties" afterPath="$PROJECT_DIR$/applications/allocations-server/src/test/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/backlog-server/src/main/java/io/pivotal/pal/tracker/backlog/App.java" afterPath="$PROJECT_DIR$/applications/backlog-server/src/main/java/io/pivotal/pal/tracker/backlog/App.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/backlog-server/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/applications/backlog-server/src/main/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/backlog-server/src/test/resources/application.properties" afterPath="$PROJECT_DIR$/applications/backlog-server/src/test/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/server.gradle" afterPath="$PROJECT_DIR$/applications/server.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/timesheets-server/src/main/java/io/pivotal/pal/tracker/timesheets/App.java" afterPath="$PROJECT_DIR$/applications/timesheets-server/src/main/java/io/pivotal/pal/tracker/timesheets/App.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/timesheets-server/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/applications/timesheets-server/src/main/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/timesheets-server/src/test/resources/application.properties" afterPath="$PROJECT_DIR$/applications/timesheets-server/src/test/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/allocations/build.gradle" afterPath="$PROJECT_DIR$/components/allocations/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/allocations/src/main/java/io/pivotal/pal/tracker/allocations/ProjectClient.java" afterPath="$PROJECT_DIR$/components/allocations/src/main/java/io/pivotal/pal/tracker/allocations/ProjectClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/backlog/build.gradle" afterPath="$PROJECT_DIR$/components/backlog/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/backlog/src/main/java/io/pivotal/pal/tracker/backlog/ProjectClient.java" afterPath="$PROJECT_DIR$/components/backlog/src/main/java/io/pivotal/pal/tracker/backlog/ProjectClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/timesheets/build.gradle" afterPath="$PROJECT_DIR$/components/timesheets/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/timesheets/src/main/java/io/pivotal/pal/tracker/timesheets/ProjectClient.java" afterPath="$PROJECT_DIR$/components/timesheets/src/main/java/io/pivotal/pal/tracker/timesheets/ProjectClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manifest-allocations.yml" afterPath="$PROJECT_DIR$/manifest-allocations.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manifest-backlog.yml" afterPath="$PROJECT_DIR$/manifest-backlog.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manifest-registration.yml" afterPath="$PROJECT_DIR$/manifest-registration.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manifest-timesheets.yml" afterPath="$PROJECT_DIR$/manifest-timesheets.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -120,16 +80,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applications/timesheets-server/src/main/java/io/pivotal/pal/tracker/timesheets/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/applications/timesheets-server/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
@@ -180,7 +130,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/applications/allocations-server/src/test/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -190,31 +140,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applications/allocations-server/src/main/java/io/pivotal/pal/tracker/allocations/App.java">
+      <file leaf-file-name="manifest-allocations.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manifest-allocations.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            <state relative-caret-position="135">
+              <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+              <folding>
+                <marker date="1519652162000" expanded="true" signature="126:142" ph="allocations-pal-ak" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manifest-backlog.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manifest-backlog.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+              <folding>
+                <marker date="1519652162000" expanded="true" signature="114:126" ph="backlog-pal-ak" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manifest-registration.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manifest-registration.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AllocationsAppTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applications/allocations-server/src/test/java/test/pivotal/pal/tracker/allocations/AllocationsAppTest.java">
+      <file leaf-file-name="manifest-timesheets.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/manifest-timesheets.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applications/backlog-server/src/main/java/io/pivotal/pal/tracker/backlog/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            <state relative-caret-position="135">
+              <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -4246,10 +4210,6 @@
         <option value="$PROJECT_DIR$/components/rest-support/build.gradle" />
         <option value="$PROJECT_DIR$/components/rest-support/src/main/java/io/pivotal/pal/tracker/restsupport/RestConfig.java" />
         <option value="$PROJECT_DIR$/integration-test/src/test/java/test/pivotal/pal/tracker/support/ApplicationServer.java" />
-        <option value="$PROJECT_DIR$/manifest-registration.yml" />
-        <option value="$PROJECT_DIR$/manifest-allocations.yml" />
-        <option value="$PROJECT_DIR$/manifest-backlog.yml" />
-        <option value="$PROJECT_DIR$/manifest-timesheets.yml" />
         <option value="$PROJECT_DIR$/components/allocations/build.gradle" />
         <option value="$PROJECT_DIR$/components/backlog/build.gradle" />
         <option value="$PROJECT_DIR$/components/timesheets/build.gradle" />
@@ -4266,6 +4226,10 @@
         <option value="$PROJECT_DIR$/applications/backlog-server/src/test/resources/application.properties" />
         <option value="$PROJECT_DIR$/applications/allocations-server/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/applications/allocations-server/src/test/resources/application.properties" />
+        <option value="$PROJECT_DIR$/manifest-allocations.yml" />
+        <option value="$PROJECT_DIR$/manifest-backlog.yml" />
+        <option value="$PROJECT_DIR$/manifest-registration.yml" />
+        <option value="$PROJECT_DIR$/manifest-timesheets.yml" />
       </list>
     </option>
   </component>
@@ -4565,12 +4529,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1260" height="672" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -4582,7 +4546,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -4829,44 +4793,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manifest-allocations.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding>
-            <marker date="1519624472000" expanded="true" signature="126:142" ph="allocations-pal-ak" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manifest-backlog.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding>
-            <marker date="1519624472000" expanded="true" signature="114:126" ph="backlog-pal-ak" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manifest-registration.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manifest-timesheets.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <marker date="1519624472000" expanded="true" signature="0:241" ph="applications: &lt;1 item&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ci/pipeline.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-472">
@@ -5019,6 +4945,42 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="77" lean-forward="false" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest-allocations.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <marker date="1519652162000" expanded="true" signature="126:142" ph="allocations-pal-ak" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest-backlog.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <marker date="1519652162000" expanded="true" signature="114:126" ph="backlog-pal-ak" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest-registration.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest-timesheets.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
           <folding />
         </state>
       </provider>
