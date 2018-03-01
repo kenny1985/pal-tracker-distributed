@@ -3,7 +3,6 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../platform-services/oauth-server">
-      <sourceFolder url="file://$MODULE_DIR$/../../../../platform-services/oauth-server/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../platform-services/oauth-server/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../platform-services/oauth-server/build" />
     </content>

@@ -42,7 +42,8 @@ public class ApplicationServer {
                 .put("REGISTRATION_SERVER_RIBBON_LISTOFSERVERS", "http://localhost:8883")
             //.put("REGISTRATION_SERVER_ENDPOINT", "http://localhost:8883")
                 .put("APPLICATION_OAUTH_ENABLED", "false")
-            .build()
+                .put("REGISTRATION_SERVER_ENDPOINT", "http://registration-server")
+                .build()
         );
     }
 

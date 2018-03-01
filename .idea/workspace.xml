@@ -2,304 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d9ecec4-7b31-454a-8900-e11cb7af225c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/applications/allocations-server/src/main/java/io/pivotal/pal/tracker/allocations/OauthResourceServerConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/applications/backlog-server/src/main/java/io/pivotal/pal/tracker/backlog/OauthResourceServerConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/applications/registration-server/src/main/java/io/pivotal/pal/tracker/registration/NoOauthResourceServerConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/applications/registration-server/src/main/java/io/pivotal/pal/tracker/registration/OauthResourceServerConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/applications/timesheets-server/src/main/java/io/pivotal/pal/tracker/timesheets/OauthResourceServerConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platform-services/oauth-server/src/main/java/io/pivotal/pal/tracker/oauthserver/SecurityConfig.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/allocations-server/build/classes/java/main/io/pivotal/pal/tracker/allocations/App.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/allocations-server/build/classes/java/test/test/pivotal/pal/tracker/allocations/AllocationsAppTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/allocations-server/build/libs/allocations-server.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/allocations-server/build/libs/allocations-server.jar.original" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/allocations-server/build/reports/tests/test/classes/test.pivotal.pal.tracker.allocations.AllocationsAppTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/allocations-server/build/reports/tests/test/css/base-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/allocations-server/build/reports/tests/test/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/allocations-server/build/reports/tests/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/allocations-server/build/reports/tests/test/js/report.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/allocations-server/build/reports/tests/test/packages/test.pivotal.pal.tracker.allocations.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/allocations-server/build/resources/main/application.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/allocations-server/build/resources/test/application.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/allocations-server/build/test-results/test/TEST-test.pivotal.pal.tracker.allocations.AllocationsAppTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/allocations-server/build/test-results/test/binary/output.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/allocations-server/build/test-results/test/binary/output.bin.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/allocations-server/build/test-results/test/binary/results.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/allocations-server/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/backlog-server/build/classes/java/main/io/pivotal/pal/tracker/backlog/App.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/backlog-server/build/classes/java/test/test/pivotal/pal/tracker/backlog/BacklogAppTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/backlog-server/build/libs/backlog-server.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/backlog-server/build/libs/backlog-server.jar.original" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/backlog-server/build/reports/tests/test/classes/test.pivotal.pal.tracker.backlog.BacklogAppTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/backlog-server/build/reports/tests/test/css/base-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/backlog-server/build/reports/tests/test/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/backlog-server/build/reports/tests/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/backlog-server/build/reports/tests/test/js/report.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/backlog-server/build/reports/tests/test/packages/test.pivotal.pal.tracker.backlog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/backlog-server/build/resources/main/application.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/backlog-server/build/resources/test/application.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/backlog-server/build/test-results/test/TEST-test.pivotal.pal.tracker.backlog.BacklogAppTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/backlog-server/build/test-results/test/binary/output.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/backlog-server/build/test-results/test/binary/output.bin.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/backlog-server/build/test-results/test/binary/results.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/backlog-server/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/build/libs/applications.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/registration-server/build/classes/java/main/io/pivotal/pal/tracker/registration/App.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/registration-server/build/classes/java/test/test/pivotal/pal/tracker/registration/RegistrationAppTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/registration-server/build/libs/registration-server.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/registration-server/build/libs/registration-server.jar.original" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/registration-server/build/reports/tests/test/classes/test.pivotal.pal.tracker.registration.RegistrationAppTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/registration-server/build/reports/tests/test/css/base-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/registration-server/build/reports/tests/test/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/registration-server/build/reports/tests/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/registration-server/build/reports/tests/test/js/report.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/registration-server/build/reports/tests/test/packages/test.pivotal.pal.tracker.registration.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/registration-server/build/resources/main/application.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/registration-server/build/resources/test/application.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/registration-server/build/test-results/test/TEST-test.pivotal.pal.tracker.registration.RegistrationAppTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/registration-server/build/test-results/test/binary/output.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/registration-server/build/test-results/test/binary/output.bin.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/registration-server/build/test-results/test/binary/results.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/registration-server/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/timesheets-server/build/classes/java/main/io/pivotal/pal/tracker/timesheets/App.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/timesheets-server/build/classes/java/test/test/pivotal/pal/tracker/timesheets/TimesheetsAppTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/timesheets-server/build/libs/timesheets-server.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/timesheets-server/build/libs/timesheets-server.jar.original" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/timesheets-server/build/reports/tests/test/classes/test.pivotal.pal.tracker.timesheets.TimesheetsAppTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/timesheets-server/build/reports/tests/test/css/base-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/timesheets-server/build/reports/tests/test/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/timesheets-server/build/reports/tests/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/timesheets-server/build/reports/tests/test/js/report.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/timesheets-server/build/reports/tests/test/packages/test.pivotal.pal.tracker.timesheets.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/timesheets-server/build/resources/main/application.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/timesheets-server/build/resources/test/application.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/timesheets-server/build/test-results/test/TEST-test.pivotal.pal.tracker.timesheets.TimesheetsAppTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/timesheets-server/build/test-results/test/binary/output.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/timesheets-server/build/test-results/test/binary/output.bin.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/timesheets-server/build/test-results/test/binary/results.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applications/timesheets-server/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/classes/java/main/io/pivotal/pal/tracker/accounts/AccountController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/classes/java/main/io/pivotal/pal/tracker/accounts/AccountInfo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/classes/java/main/io/pivotal/pal/tracker/accounts/AccountInfo$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/classes/java/main/io/pivotal/pal/tracker/accounts/AccountInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/classes/java/main/io/pivotal/pal/tracker/accounts/RegistrationController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/classes/java/main/io/pivotal/pal/tracker/accounts/RegistrationForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/classes/java/main/io/pivotal/pal/tracker/accounts/RegistrationService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/classes/java/main/io/pivotal/pal/tracker/accounts/data/AccountDataGateway.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/classes/java/main/io/pivotal/pal/tracker/accounts/data/AccountRecord$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/classes/java/main/io/pivotal/pal/tracker/accounts/data/AccountRecord$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/classes/java/main/io/pivotal/pal/tracker/accounts/data/AccountRecord.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/classes/java/test/test/pivotal/pal/tracker/accounts/AccountControllerTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/classes/java/test/test/pivotal/pal/tracker/accounts/RegistrationControllerTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/classes/java/test/test/pivotal/pal/tracker/accounts/RegistrationServiceTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/classes/java/test/test/pivotal/pal/tracker/accounts/data/AccountDataGatewayTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/libs/accounts.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/reports/tests/test/classes/test.pivotal.pal.tracker.accounts.AccountControllerTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/reports/tests/test/classes/test.pivotal.pal.tracker.accounts.RegistrationControllerTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/reports/tests/test/classes/test.pivotal.pal.tracker.accounts.RegistrationServiceTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/reports/tests/test/classes/test.pivotal.pal.tracker.accounts.data.AccountDataGatewayTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/reports/tests/test/css/base-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/reports/tests/test/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/reports/tests/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/reports/tests/test/js/report.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/reports/tests/test/packages/test.pivotal.pal.tracker.accounts.data.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/reports/tests/test/packages/test.pivotal.pal.tracker.accounts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/test-results/test/TEST-test.pivotal.pal.tracker.accounts.AccountControllerTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/test-results/test/TEST-test.pivotal.pal.tracker.accounts.RegistrationControllerTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/test-results/test/TEST-test.pivotal.pal.tracker.accounts.RegistrationServiceTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/test-results/test/TEST-test.pivotal.pal.tracker.accounts.data.AccountDataGatewayTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/test-results/test/binary/output.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/test-results/test/binary/output.bin.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/test-results/test/binary/results.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/accounts/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/classes/java/main/io/pivotal/pal/tracker/allocations/AllocationController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/classes/java/main/io/pivotal/pal/tracker/allocations/AllocationForm$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/classes/java/main/io/pivotal/pal/tracker/allocations/AllocationForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/classes/java/main/io/pivotal/pal/tracker/allocations/AllocationInfo$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/classes/java/main/io/pivotal/pal/tracker/allocations/AllocationInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/classes/java/main/io/pivotal/pal/tracker/allocations/ProjectClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/classes/java/main/io/pivotal/pal/tracker/allocations/ProjectInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/classes/java/main/io/pivotal/pal/tracker/allocations/data/AllocationDataGateway.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/classes/java/main/io/pivotal/pal/tracker/allocations/data/AllocationFields$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/classes/java/main/io/pivotal/pal/tracker/allocations/data/AllocationFields.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/classes/java/main/io/pivotal/pal/tracker/allocations/data/AllocationRecord$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/classes/java/main/io/pivotal/pal/tracker/allocations/data/AllocationRecord.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/classes/java/test/test/pivotal/pal/tracker/allocations/AllocationControllerTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/classes/java/test/test/pivotal/pal/tracker/allocations/AllocationDataGatewayTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/classes/java/test/test/pivotal/pal/tracker/allocations/TestBuilders.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/libs/allocations.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/reports/tests/test/classes/test.pivotal.pal.tracker.allocations.AllocationControllerTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/reports/tests/test/classes/test.pivotal.pal.tracker.allocations.AllocationDataGatewayTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/reports/tests/test/css/base-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/reports/tests/test/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/reports/tests/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/reports/tests/test/js/report.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/reports/tests/test/packages/test.pivotal.pal.tracker.allocations.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/test-results/test/TEST-test.pivotal.pal.tracker.allocations.AllocationControllerTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/test-results/test/TEST-test.pivotal.pal.tracker.allocations.AllocationDataGatewayTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/test-results/test/binary/output.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/test-results/test/binary/output.bin.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/test-results/test/binary/results.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/allocations/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/classes/java/main/io/pivotal/pal/tracker/backlog/ProjectClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/classes/java/main/io/pivotal/pal/tracker/backlog/ProjectInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/classes/java/main/io/pivotal/pal/tracker/backlog/StoryController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/classes/java/main/io/pivotal/pal/tracker/backlog/StoryForm$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/classes/java/main/io/pivotal/pal/tracker/backlog/StoryForm$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/classes/java/main/io/pivotal/pal/tracker/backlog/StoryForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/classes/java/main/io/pivotal/pal/tracker/backlog/StoryInfo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/classes/java/main/io/pivotal/pal/tracker/backlog/StoryInfo$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/classes/java/main/io/pivotal/pal/tracker/backlog/StoryInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/classes/java/main/io/pivotal/pal/tracker/backlog/data/StoryDataGateway.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/classes/java/main/io/pivotal/pal/tracker/backlog/data/StoryFields$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/classes/java/main/io/pivotal/pal/tracker/backlog/data/StoryFields$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/classes/java/main/io/pivotal/pal/tracker/backlog/data/StoryFields.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/classes/java/main/io/pivotal/pal/tracker/backlog/data/StoryRecord$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/classes/java/main/io/pivotal/pal/tracker/backlog/data/StoryRecord$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/classes/java/main/io/pivotal/pal/tracker/backlog/data/StoryRecord.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/classes/java/test/test/pivotal/pal/tracker/backlog/StoryControllerTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/classes/java/test/test/pivotal/pal/tracker/backlog/TestBuilders.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/classes/java/test/test/pivotal/pal/tracker/backlog/data/StoryDataGatewayTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/libs/backlog.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/reports/tests/test/classes/test.pivotal.pal.tracker.backlog.StoryControllerTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/reports/tests/test/classes/test.pivotal.pal.tracker.backlog.data.StoryDataGatewayTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/reports/tests/test/css/base-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/reports/tests/test/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/reports/tests/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/reports/tests/test/js/report.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/reports/tests/test/packages/test.pivotal.pal.tracker.backlog.data.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/reports/tests/test/packages/test.pivotal.pal.tracker.backlog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/test-results/test/TEST-test.pivotal.pal.tracker.backlog.StoryControllerTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/test-results/test/TEST-test.pivotal.pal.tracker.backlog.data.StoryDataGatewayTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/test-results/test/binary/output.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/test-results/test/binary/output.bin.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/test-results/test/binary/results.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/backlog/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/build/libs/components.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/classes/java/main/io/pivotal/pal/tracker/projects/ProjectController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/classes/java/main/io/pivotal/pal/tracker/projects/ProjectForm$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/classes/java/main/io/pivotal/pal/tracker/projects/ProjectForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/classes/java/main/io/pivotal/pal/tracker/projects/ProjectInfo$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/classes/java/main/io/pivotal/pal/tracker/projects/ProjectInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/classes/java/main/io/pivotal/pal/tracker/projects/data/ProjectDataGateway.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/classes/java/main/io/pivotal/pal/tracker/projects/data/ProjectFields$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/classes/java/main/io/pivotal/pal/tracker/projects/data/ProjectFields$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/classes/java/main/io/pivotal/pal/tracker/projects/data/ProjectFields.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/classes/java/main/io/pivotal/pal/tracker/projects/data/ProjectRecord$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/classes/java/main/io/pivotal/pal/tracker/projects/data/ProjectRecord$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/classes/java/main/io/pivotal/pal/tracker/projects/data/ProjectRecord.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/classes/java/test/test/pivotal/pal/tracker/projects/ProjectControllerTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/classes/java/test/test/pivotal/pal/tracker/projects/ProjectDataGatewayTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/classes/java/test/test/pivotal/pal/tracker/projects/TestBuilders.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/libs/projects.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/reports/tests/test/classes/test.pivotal.pal.tracker.projects.ProjectControllerTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/reports/tests/test/classes/test.pivotal.pal.tracker.projects.ProjectDataGatewayTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/reports/tests/test/css/base-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/reports/tests/test/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/reports/tests/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/reports/tests/test/js/report.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/reports/tests/test/packages/test.pivotal.pal.tracker.projects.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/test-results/test/TEST-test.pivotal.pal.tracker.projects.ProjectControllerTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/test-results/test/TEST-test.pivotal.pal.tracker.projects.ProjectDataGatewayTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/test-results/test/binary/output.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/test-results/test/binary/output.bin.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/test-results/test/binary/results.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/projects/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/rest-support/build/classes/java/main/io/pivotal/pal/tracker/restsupport/RestConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/rest-support/build/classes/java/main/io/pivotal/pal/tracker/restsupport/SpringDefaultController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/rest-support/build/libs/rest-support.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/rest-support/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/test-support/build/classes/java/main/io/pivotal/pal/tracker/testsupport/TestDataSourceFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/test-support/build/classes/java/main/io/pivotal/pal/tracker/testsupport/TestScenarioSupport.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/test-support/build/libs/test-support.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/test-support/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/classes/java/main/io/pivotal/pal/tracker/timesheets/ProjectClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/classes/java/main/io/pivotal/pal/tracker/timesheets/ProjectInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/classes/java/main/io/pivotal/pal/tracker/timesheets/TimeEntryController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/classes/java/main/io/pivotal/pal/tracker/timesheets/TimeEntryForm$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/classes/java/main/io/pivotal/pal/tracker/timesheets/TimeEntryForm$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/classes/java/main/io/pivotal/pal/tracker/timesheets/TimeEntryForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/classes/java/main/io/pivotal/pal/tracker/timesheets/TimeEntryInfo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/classes/java/main/io/pivotal/pal/tracker/timesheets/TimeEntryInfo$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/classes/java/main/io/pivotal/pal/tracker/timesheets/TimeEntryInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/classes/java/main/io/pivotal/pal/tracker/timesheets/data/TimeEntryDataGateway.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/classes/java/main/io/pivotal/pal/tracker/timesheets/data/TimeEntryFields$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/classes/java/main/io/pivotal/pal/tracker/timesheets/data/TimeEntryFields$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/classes/java/main/io/pivotal/pal/tracker/timesheets/data/TimeEntryFields.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/classes/java/main/io/pivotal/pal/tracker/timesheets/data/TimeEntryRecord$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/classes/java/main/io/pivotal/pal/tracker/timesheets/data/TimeEntryRecord$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/classes/java/main/io/pivotal/pal/tracker/timesheets/data/TimeEntryRecord.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/classes/java/test/test/pivotal/pal/tracker/timesheets/TestBuilders.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/classes/java/test/test/pivotal/pal/tracker/timesheets/TimeEntryControllerTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/classes/java/test/test/pivotal/pal/tracker/timesheets/TimeEntryDataGatewayTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/libs/timesheets.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/reports/tests/test/classes/test.pivotal.pal.tracker.timesheets.TimeEntryControllerTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/reports/tests/test/classes/test.pivotal.pal.tracker.timesheets.TimeEntryDataGatewayTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/reports/tests/test/css/base-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/reports/tests/test/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/reports/tests/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/reports/tests/test/js/report.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/reports/tests/test/packages/test.pivotal.pal.tracker.timesheets.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/test-results/test/TEST-test.pivotal.pal.tracker.timesheets.TimeEntryControllerTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/test-results/test/TEST-test.pivotal.pal.tracker.timesheets.TimeEntryDataGatewayTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/test-results/test/binary/output.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/test-results/test/binary/output.bin.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/test-results/test/binary/results.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/timesheets/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/users/build/classes/java/main/io/pivotal/pal/tracker/users/UserController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/users/build/classes/java/main/io/pivotal/pal/tracker/users/UserInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/users/build/classes/java/main/io/pivotal/pal/tracker/users/data/UserDataGateway.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/users/build/classes/java/main/io/pivotal/pal/tracker/users/data/UserRecord.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/users/build/classes/java/test/test/pivotal/pal/tracker/users/UserControllerTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/users/build/classes/java/test/test/pivotal/pal/tracker/users/data/UserDataGatewayTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/users/build/libs/users.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/users/build/reports/tests/test/classes/test.pivotal.pal.tracker.users.UserControllerTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/users/build/reports/tests/test/classes/test.pivotal.pal.tracker.users.data.UserDataGatewayTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/users/build/reports/tests/test/css/base-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/users/build/reports/tests/test/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/users/build/reports/tests/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/users/build/reports/tests/test/js/report.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/users/build/reports/tests/test/packages/test.pivotal.pal.tracker.users.data.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/users/build/reports/tests/test/packages/test.pivotal.pal.tracker.users.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/users/build/test-results/test/TEST-test.pivotal.pal.tracker.users.UserControllerTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/users/build/test-results/test/TEST-test.pivotal.pal.tracker.users.data.UserDataGatewayTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/users/build/test-results/test/binary/output.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/users/build/test-results/test/binary/output.bin.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/users/build/test-results/test/binary/results.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components/users/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/databases/allocations-database/build/libs/allocations-database.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/databases/allocations-database/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/databases/backlog-database/build/libs/backlog-database.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/databases/backlog-database/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/databases/build/libs/databases.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/databases/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/databases/registration-database/build/libs/registration-database.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/databases/registration-database/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/databases/timesheets-database/build/libs/timesheets-database.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/databases/timesheets-database/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/integration-test/build/classes/java/test/test/pivotal/pal/tracker/FlowTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/integration-test/build/classes/java/test/test/pivotal/pal/tracker/support/ApplicationServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/integration-test/build/classes/java/test/test/pivotal/pal/tracker/support/HttpClient$Response.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/integration-test/build/classes/java/test/test/pivotal/pal/tracker/support/HttpClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/integration-test/build/classes/java/test/test/pivotal/pal/tracker/support/MapBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/integration-test/build/libs/integration-test.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/integration-test/build/reports/tests/test/classes/test.pivotal.pal.tracker.FlowTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/integration-test/build/reports/tests/test/css/base-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/integration-test/build/reports/tests/test/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/integration-test/build/reports/tests/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/integration-test/build/reports/tests/test/js/report.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/integration-test/build/reports/tests/test/packages/test.pivotal.pal.tracker.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/integration-test/build/test-results/test/TEST-test.pivotal.pal.tracker.FlowTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/integration-test/build/test-results/test/binary/output.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/integration-test/build/test-results/test/binary/output.bin.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/integration-test/build/test-results/test/binary/results.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/integration-test/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-services/build/libs/platform-services.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-services/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-services/eureka-server/build/libs/eureka-server.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-services/eureka-server/build/libs/eureka-server.jar.original" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-services/eureka-server/build/tmp/jar/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-services/eureka-server/build/classes/java/main/io/pivotal/pal/tracker/eurekaserver/App.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-services/oauth-server/build/classes/java/main/io/pivotal/pal/tracker/oauthserver/App.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-services/oauth-server/build/classes/java/main/io/pivotal/pal/tracker/oauthserver/SecurityConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-services/oauth-server/build/libs/oauth-server.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-services/oauth-server/build/libs/oauth-server.jar.original" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-services/oauth-server/build/tmp/jar/MANIFEST.MF" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0/fileContent/annotation-processors.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileContent/annotation-processors.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/fileContent/fileContent.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" />
@@ -308,10 +16,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buildSrc/.gradle/4.0/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/buildSrc/.gradle/4.0/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/applications/allocations-server/allocations-server.iml" afterPath="$PROJECT_DIR$/.idea/modules/applications/allocations-server/allocations-server.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/applications/applications.iml" afterPath="$PROJECT_DIR$/.idea/modules/applications/applications.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/applications/backlog-server/backlog-server.iml" afterPath="$PROJECT_DIR$/.idea/modules/applications/backlog-server/backlog-server.iml" />
@@ -334,29 +38,25 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/integration-test/integration-test.iml" afterPath="$PROJECT_DIR$/.idea/modules/integration-test/integration-test.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server_main.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server_test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/platform-services/oauth-server/oauth-server.iml" afterPath="$PROJECT_DIR$/.idea/modules/platform-services/oauth-server/oauth-server.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/platform-services/oauth-server/oauth-server_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/platform-services/oauth-server/oauth-server_main.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/platform-services/oauth-server/oauth-server_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/platform-services/oauth-server/oauth-server_test.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/platform-services/platform-services_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/platform-services/platform-services_test.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/allocations-server/src/main/java/io/pivotal/pal/tracker/allocations/App.java" afterPath="$PROJECT_DIR$/applications/allocations-server/src/main/java/io/pivotal/pal/tracker/allocations/App.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/allocations-server/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/applications/allocations-server/src/main/resources/application.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/allocations-server/src/test/resources/application.properties" afterPath="$PROJECT_DIR$/applications/allocations-server/src/test/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/backlog-server/src/main/java/io/pivotal/pal/tracker/backlog/App.java" afterPath="$PROJECT_DIR$/applications/backlog-server/src/main/java/io/pivotal/pal/tracker/backlog/App.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/backlog-server/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/applications/backlog-server/src/main/resources/application.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/backlog-server/src/test/resources/application.properties" afterPath="$PROJECT_DIR$/applications/backlog-server/src/test/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/registration-server/src/main/java/io/pivotal/pal/tracker/registration/App.java" afterPath="$PROJECT_DIR$/applications/registration-server/src/main/java/io/pivotal/pal/tracker/registration/App.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/registration-server/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/applications/registration-server/src/main/resources/application.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/registration-server/src/test/resources/application.properties" afterPath="$PROJECT_DIR$/applications/registration-server/src/test/resources/application.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/server.gradle" afterPath="$PROJECT_DIR$/applications/server.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/timesheets-server/src/main/java/io/pivotal/pal/tracker/timesheets/App.java" afterPath="$PROJECT_DIR$/applications/timesheets-server/src/main/java/io/pivotal/pal/tracker/timesheets/App.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/timesheets-server/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/applications/timesheets-server/src/main/resources/application.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applications/timesheets-server/src/test/resources/application.properties" afterPath="$PROJECT_DIR$/applications/timesheets-server/src/test/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/rest-support/src/main/java/io/pivotal/pal/tracker/restsupport/RestConfig.java" afterPath="$PROJECT_DIR$/components/rest-support/src/main/java/io/pivotal/pal/tracker/restsupport/RestConfig.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/integration-test/src/test/java/test/pivotal/pal/tracker/support/ApplicationServer.java" afterPath="$PROJECT_DIR$/integration-test/src/test/java/test/pivotal/pal/tracker/support/ApplicationServer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manifest-allocations.yml" afterPath="$PROJECT_DIR$/manifest-allocations.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manifest-backlog.yml" afterPath="$PROJECT_DIR$/manifest-backlog.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manifest-registration.yml" afterPath="$PROJECT_DIR$/manifest-registration.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manifest-timesheets.yml" afterPath="$PROJECT_DIR$/manifest-timesheets.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platform-services/eureka-server/src/resources/application.properties" afterPath="$PROJECT_DIR$/platform-services/eureka-server/src/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -433,18 +133,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/platform-services/oauth-server/build.gradle">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applications/backlog-server/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AllocationsAppTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applications/allocations-server/src/test/java/test/pivotal/pal/tracker/allocations/AllocationsAppTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/platform-services/eureka-server/build.gradle">
+        <entry file="file://$PROJECT_DIR$/applications/allocations-server/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -453,55 +163,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/platform-services/eureka-server/src/resources/application.properties">
+      <file leaf-file-name="server.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applications/server.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="158">
+              <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/platform-services/oauth-server/src/main/java/io/pivotal/pal/tracker/oauthserver/App.java">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/platform-services/oauth-server/src/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="243">
+              <caret line="18" column="60" lean-forward="true" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applications/allocations-server/src/main/resources/application.properties">
+      <file leaf-file-name="ApplicationServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration-test/src/test/java/test/pivotal/pal/tracker/support/ApplicationServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+            <state relative-caret-position="255">
+              <caret line="44" column="82" lean-forward="false" selection-start-line="44" selection-start-column="82" selection-end-line="44" selection-end-column="82" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manifest-allocations.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="manifest-allocations.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/manifest-allocations.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+            <state relative-caret-position="195">
+              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="25" />
               <folding>
-                <marker date="1519896586000" expanded="true" signature="126:142" ph="allocations-pal-ak" />
+                <marker date="1519904465000" expanded="true" signature="126:142" ph="allocations-pal-ak" />
               </folding>
             </state>
           </provider>
@@ -510,10 +208,10 @@
       <file leaf-file-name="manifest-backlog.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/manifest-backlog.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+            <state relative-caret-position="195">
+              <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
               <folding>
-                <marker date="1519896586000" expanded="true" signature="114:126" ph="backlog-pal-ak" />
+                <marker date="1519904465000" expanded="true" signature="114:126" ph="backlog-pal-ak" />
               </folding>
             </state>
           </provider>
@@ -522,18 +220,18 @@
       <file leaf-file-name="manifest-registration.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/manifest-registration.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+            <state relative-caret-position="195">
+              <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manifest-timesheets.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="manifest-timesheets.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/manifest-timesheets.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+            <state relative-caret-position="195">
+              <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -4148,7 +3846,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="37977559133000" />
+        <entry key="$PROJECT_DIR$" value="37977736273000" />
         <entry key="$PROJECT_DIR$/../pal-tracker" value="3037386004000" />
         <entry key="$USER_HOME$/workspace/coursecontent/cpal-dotnet-course" value="1518676607000" />
       </map>
@@ -4730,7 +4428,6 @@
       <list>
         <option value="$PROJECT_DIR$/ci/build.yml" />
         <option value="$PROJECT_DIR$/ci/pipeline.yml" />
-        <option value="$PROJECT_DIR$/ci/variables.yml" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/platform-services/eureka-server/build.gradle" />
         <option value="$PROJECT_DIR$/platform-services/eureka-server/io.pivotal.pal.tracker.eurekaserver/App.java" />
@@ -4748,32 +4445,37 @@
         <option value="$PROJECT_DIR$/applications/allocations-server/src/main/java/io/pivotal/pal/tracker/allocations/OauthResourceServerConfig.java" />
         <option value="$PROJECT_DIR$/applications/backlog-server/src/main/java/io/pivotal/pal/tracker/backlog/OauthResourceServerConfig.java" />
         <option value="$PROJECT_DIR$/applications/timesheets-server/src/main/java/io/pivotal/pal/tracker/timesheets/OauthResourceServerConfig.java" />
-        <option value="$PROJECT_DIR$/applications/registration-server/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/components/rest-support/src/main/java/io/pivotal/pal/tracker/restsupport/RestConfig.java" />
-        <option value="$PROJECT_DIR$/applications/allocations-server/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/applications/backlog-server/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/applications/timesheets-server/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/applications/allocations-server/src/main/java/io/pivotal/pal/tracker/allocations/NoOauthResourceServerConfig.java" />
         <option value="$PROJECT_DIR$/applications/backlog-server/src/main/java/io/pivotal/pal/tracker/backlog/NoOauthResourceServerConfig.java" />
         <option value="$PROJECT_DIR$/applications/timesheets-server/src/main/java/io/pivotal/pal/tracker/timesheets/NoOauthResourceServerConfig.java" />
         <option value="$PROJECT_DIR$/applications/registration-server/src/main/java/io/pivotal/pal/tracker/registration/NoOauthResourceServerConfig.java" />
-        <option value="$PROJECT_DIR$/integration-test/src/test/java/test/pivotal/pal/tracker/support/ApplicationServer.java" />
         <option value="$PROJECT_DIR$/platform-services/oauth-server/src/main/java/io/pivotal/pal/tracker/oauthserver/App.java" />
         <option value="$PROJECT_DIR$/platform-services/oauth-server/src/main/java/io/pivotal/pal/tracker/oauthserver/SecurityConfig.java" />
-        <option value="$PROJECT_DIR$/applications/server.gradle" />
-        <option value="$PROJECT_DIR$/applications/allocations-server/src/test/resources/application.properties" />
         <option value="$PROJECT_DIR$/settings.gradle" />
         <option value="$PROJECT_DIR$/applications/registration-server/src/main/java/io/pivotal/pal/tracker/registration/OauthResourceServerConfig.java" />
-        <option value="$PROJECT_DIR$/applications/backlog-server/src/test/resources/application.properties" />
-        <option value="$PROJECT_DIR$/applications/registration-server/src/test/resources/application.properties" />
-        <option value="$PROJECT_DIR$/applications/timesheets-server/src/test/resources/application.properties" />
         <option value="$PROJECT_DIR$/platform-services/oauth-server/build.gradle" />
         <option value="$PROJECT_DIR$/platform-services/oauth-server/src/resources/application.properties" />
         <option value="$PROJECT_DIR$/platform-services/eureka-server/src/resources/application.properties" />
-        <option value="$PROJECT_DIR$/manifest-timesheets.yml" />
-        <option value="$PROJECT_DIR$/manifest-registration.yml" />
-        <option value="$PROJECT_DIR$/manifest-backlog.yml" />
+        <option value="$PROJECT_DIR$/ci/variables.yml" />
+        <option value="$PROJECT_DIR$/applications/allocations-server/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/applications/backlog-server/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/applications/registration-server/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/applications/timesheets-server/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/applications/server.gradle" />
+        <option value="$PROJECT_DIR$/applications/allocations-server/src/test/resources/application.properties" />
+        <option value="$PROJECT_DIR$/applications/registration-server/src/test/resources/application.properties" />
+        <option value="$PROJECT_DIR$/applications/allocations-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/applications/backlog-server/src/test/resources/application.properties" />
+        <option value="$PROJECT_DIR$/applications/registration-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/applications/timesheets-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/applications/timesheets-server/src/test/resources/application.properties" />
+        <option value="$PROJECT_DIR$/applications/backlog-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/integration-test/src/test/java/test/pivotal/pal/tracker/support/ApplicationServer.java" />
         <option value="$PROJECT_DIR$/manifest-allocations.yml" />
+        <option value="$PROJECT_DIR$/manifest-backlog.yml" />
+        <option value="$PROJECT_DIR$/manifest-registration.yml" />
+        <option value="$PROJECT_DIR$/manifest-timesheets.yml" />
       </list>
     </option>
   </component>
@@ -4807,6 +4509,52 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="pal-track-dist-git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pal-track-dist-git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pal-track-dist-git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="applications" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pal-track-dist-git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pal-track-dist-git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="applications" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="allocations-server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pal-track-dist-git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pal-track-dist-git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".gradle" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -5086,6 +4834,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -5098,7 +4847,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -5109,52 +4857,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/components/test-support/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/rest-support/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="74" lean-forward="false" selection-start-line="2" selection-start-column="74" selection-end-line="2" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/databases/backlog-database/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ci/pipeline.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-472">
-          <caret line="92" column="20" lean-forward="false" selection-start-line="92" selection-start-column="20" selection-end-line="92" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/allocations/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="56" lean-forward="false" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/backlog/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="56" lean-forward="false" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/timesheets/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="56" lean-forward="false" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -5170,13 +4877,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" column="1" lean-forward="false" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applications/allocations-server/src/test/java/test/pivotal/pal/tracker/allocations/AllocationsAppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -5200,6 +4903,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -5207,6 +4913,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -5242,22 +4951,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/integration-test/src/test/java/test/pivotal/pal/tracker/support/ApplicationServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="42" column="36" lean-forward="false" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/applications/backlog-server/build/reports/tests/test/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -5270,30 +4963,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="16" column="45" lean-forward="false" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applications/timesheets-server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="52" lean-forward="false" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applications/backlog-server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="52" lean-forward="false" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ci/build.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -5342,50 +5011,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/applications/registration-server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/rest-support/src/main/java/io/pivotal/pal/tracker/restsupport/RestConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applications/backlog-server/src/test/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applications/allocations-server/src/test/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="55" lean-forward="false" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applications/registration-server/src/test/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applications/timesheets-server/src/test/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -5410,14 +5039,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applications/server.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="27" column="42" lean-forward="false" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -5474,47 +5095,191 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ci/build.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ci/variables.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="63" lean-forward="false" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/allocations-server/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="42" lean-forward="false" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/backlog-server/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/registration-server/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/timesheets-server/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="41" lean-forward="false" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/allocations-server/src/test/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/registration-server/src/test/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/applications/allocations-server/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/backlog-server/src/test/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/registration-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/timesheets-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/timesheets-server/src/test/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/backlog-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration-test/src/test/java/test/pivotal/pal/tracker/support/ApplicationServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="44" column="82" lean-forward="false" selection-start-line="44" selection-start-column="82" selection-end-line="44" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/allocations-server/src/test/java/test/pivotal/pal/tracker/allocations/AllocationsAppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/allocations-server/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/server.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="18" column="60" lean-forward="true" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest-allocations.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <marker date="1519904465000" expanded="true" signature="126:142" ph="allocations-pal-ak" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest-backlog.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <marker date="1519904465000" expanded="true" signature="114:126" ph="backlog-pal-ak" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest-registration.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/manifest-timesheets.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        <state relative-caret-position="195">
+          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manifest-registration.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manifest-backlog.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-          <folding>
-            <marker date="1519896586000" expanded="true" signature="114:126" ph="backlog-pal-ak" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manifest-allocations.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-          <folding>
-            <marker date="1519896586000" expanded="true" signature="126:142" ph="allocations-pal-ak" />
-          </folding>
         </state>
       </provider>
     </entry>
