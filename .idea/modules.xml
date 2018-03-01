@@ -25,6 +25,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server_main.iml" group="platform-services/eureka-server" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server_test.iml" group="platform-services/eureka-server" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/integration-test/integration-test.iml" filepath="$PROJECT_DIR$/.idea/modules/integration-test/integration-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform-services/oauth-server/oauth-server.iml" filepath="$PROJECT_DIR$/.idea/modules/platform-services/oauth-server/oauth-server.iml" group="platform-services/oauth-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform-services/oauth-server/oauth-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/platform-services/oauth-server/oauth-server_main.iml" group="platform-services/oauth-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform-services/oauth-server/oauth-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/platform-services/oauth-server/oauth-server_test.iml" group="platform-services/oauth-server" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pal-track-dist-git.iml" filepath="$PROJECT_DIR$/.idea/modules/pal-track-dist-git.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pal-tracker-distributed.iml" filepath="$PROJECT_DIR$/.idea/modules/pal-tracker-distributed.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform-services/platform-services.iml" filepath="$PROJECT_DIR$/.idea/modules/platform-services/platform-services.iml" group="platform-services" />

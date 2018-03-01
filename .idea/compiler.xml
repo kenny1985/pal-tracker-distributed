@@ -12,6 +12,8 @@
       <module name="databases_test" target="1.8" />
       <module name="eureka-server_main" target="1.8" />
       <module name="eureka-server_test" target="1.8" />
+      <module name="oauth-server_main" target="1.8" />
+      <module name="oauth-server_test" target="1.8" />
       <module name="platform-services_main" target="1.8" />
       <module name="platform-services_test" target="1.8" />
       <module name="registration-database_main" target="1.8" />
